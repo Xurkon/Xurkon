@@ -25,6 +25,28 @@ I'm a passionate addon developer specializing in **World of Warcraft** tools and
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Xurkon's GitHub Stats](https://github-readme-stats-five-phi-35.vercel.app/api?username=Xurkon&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats-five-phi-35.vercel.app/api/top-langs/?username=Xurkon&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&text_color=ffffff)
+
+</div>
+
+---
+
+## 📌 Recent Projects
+
+<div align="center">
+
+[![LootCollector](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=LootCollector&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/LootCollector)
+
+</div>
+
+---
+
 ## 🛠️ Tech & Tools
 
 <div align="center">
