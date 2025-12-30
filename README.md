@@ -29,9 +29,13 @@ I'm a passionate addon developer specializing in **World of Warcraft** tools and
 
 <div align="center">
 
-![Xurkon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xurkon&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)
+<a href="https://github.com/Xurkon">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xurkon&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff" alt="Xurkon's GitHub Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xurkon&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&text_color=ffffff)
+<a href="https://github.com/Xurkon">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xurkon&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&text_color=ffffff" alt="Top Languages" />
+</a>
 
 </div>
 
