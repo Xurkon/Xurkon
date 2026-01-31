@@ -41,7 +41,11 @@ I'm a passionate addon developer specializing in **World of Warcraft** tools and
 
 <div align="center">
 
-[![LootCollector](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=LootCollector&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/LootCollector)
+[![PA-MinimapButtonFrame](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-MinimapButtonFrame&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-MinimapButtonFrame)
+[![PA-Carbonite](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-Carbonite&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-Carbonite)
+[![PA-Leatrix_Plus](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-Leatrix_Plus&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-Leatrix_Plus)
+[![TSM-Scraper](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=TSM-Scraper&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/TSM-Scraper)
+[![PA-XtoLevel](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-XtoLevel&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-XtoLevel)
 
 </div>
 
