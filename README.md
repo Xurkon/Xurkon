@@ -37,7 +37,7 @@ I'm a passionate addon developer specializing in **World of Warcraft** tools and
 
 ---
 
-## 📌 Recent Projects
+## 📌 Popular Projects
 
 <div align="center">
 
