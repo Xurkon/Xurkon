@@ -41,6 +41,7 @@ I'm a passionate addon developer specializing in **World of Warcraft** tools and
 
 <div align="center">
 
+[![Questie-X](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=Questie-X&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/Questie-X)
 [![PA-MinimapButtonFrame](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-MinimapButtonFrame&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-MinimapButtonFrame)
 [![PA-Carbonite](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-Carbonite&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-Carbonite)
 [![PA-Leatrix_Plus](https://github-readme-stats-five-phi-35.vercel.app/api/pin/?username=Xurkon&repo=PA-Leatrix_Plus&theme=dark&hide_border=true&bg_color=0d1117&title_color=e67e22&icon_color=e67e22&text_color=ffffff)](https://github.com/Xurkon/PA-Leatrix_Plus)
